@@ -13,14 +13,12 @@ def user_info(request):
 
 
 @api_view(["POST"])
-@allowed_users(allowed_roles=[1, 2, 3])
 def log_out(request):
     status, message = user_logout(request.data['email'])
     return Response({"status": status, "message": message})
 
 
 @api_view(["POST"])
-@allowed_users(allowed_roles=[1, 2, 3])
 def log_in(request):
     status, message = user_login(request.data['email'])
     return Response({"status": status, "message": message})
