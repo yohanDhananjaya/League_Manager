@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Qualifier",
+    "teams_count": 16,
+    "tournament_id": 1
+  },
+  {
+    "name": "Quarter Final",
+    "teams_count": 8,
+    "tournament_id": 1
+  },
+  {
+    "name": "Semi Final",
+    "teams_count": 4,
+    "tournament_id": 1
+  },
+  {
+    "name": "Final",
+    "teams_count": 5,
+    "tournament_id": 1
+  }
+]

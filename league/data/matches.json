@@ -1,0 +1,123 @@
+
+[
+  {
+    "winner": 1,
+    "loser": 2,
+    "winner_score": 98,
+    "loser_score": 75,
+    "round": 1,
+    "tournament": 1
+  },
+  {
+    "winner": 3,
+    "loser": 4,
+    "winner_score": 88,
+    "loser_score": 85,
+    "round": 1,
+    "tournament": 1
+  },
+  {
+    "winner": 5,
+    "loser": 6,
+    "winner_score": 98,
+    "loser_score": 60,
+    "round": 1,
+    "tournament": 1
+  },
+  {
+    "winner": 7,
+    "loser": 8,
+    "winner_score": 90,
+    "loser_score": 80,
+    "round": 1,
+    "tournament": 1
+  },
+  {
+    "winner": 9,
+    "loser": 10,
+    "winner_score": 95,
+    "loser_score": 89,
+    "round": 1,
+    "tournament": 1
+  },
+  {
+    "winner": 11,
+    "loser": 12,
+    "winner_score": 94,
+    "loser_score": 90,
+    "round": 1,
+    "tournament": 1
+  },
+  {
+    "winner": 13,
+    "loser": 14,
+    "winner_score": 89,
+    "loser_score": 88,
+    "round": 1,
+    "tournament": 1
+  },
+  {
+    "winner": 15,
+    "loser": 16,
+    "winner_score": 93,
+    "loser_score": 89,
+    "round": 1,
+    "tournament": 1
+  },
+  {
+    "winner": 1,
+    "loser": 3,
+    "winner_score": 100,
+    "loser_score": 95,
+    "round": 2,
+    "tournament": 1
+  },
+  {
+    "winner": 5,
+    "loser": 7,
+    "winner_score": 96,
+    "loser_score": 91,
+    "round": 2,
+    "tournament": 1
+  },
+  {
+    "winner": 9,
+    "loser": 11,
+    "winner_score": 93,
+    "loser_score": 92,
+    "round": 2,
+    "tournament": 1
+  },
+  {
+    "winner": 13,
+    "loser": 15,
+    "winner_score": 97,
+    "loser_score": 90,
+    "round": 2,
+    "tournament": 1
+  },
+  {
+    "winner": 1,
+    "loser": 5,
+    "winner_score": 88,
+    "loser_score": 86,
+    "round": 3,
+    "tournament": 1
+  },
+  {
+    "winner": 9,
+    "loser": 13,
+    "winner_score": 90,
+    "loser_score": 87,
+    "round": 3,
+    "tournament": 1
+  },
+  {
+    "winner": 1,
+    "loser": 9,
+    "winner_score": 100,
+    "loser_score": 97,
+    "round": 4,
+    "tournament": 1
+  }
+]
